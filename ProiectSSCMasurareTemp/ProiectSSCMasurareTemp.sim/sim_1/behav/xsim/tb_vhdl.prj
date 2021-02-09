@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/I2C_Controller.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/I2C_Slave.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sim_1/new/tb.vhd" \
+
+# Do not sort compile order
+nosort

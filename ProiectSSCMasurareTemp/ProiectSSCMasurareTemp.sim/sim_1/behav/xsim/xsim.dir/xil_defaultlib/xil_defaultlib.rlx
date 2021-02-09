@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sim_1/new/tb.vhd,1609787209,vhdl,,,,tb,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/imports/new/displ7seg.vhd,1602058673,vhdl,D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/Placuta.vhd,,,displ7seg,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/imports/new/uart_tx.vhd,1608401265,vhdl,D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/uart_send13.vhd,,,uart_tx,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/I2C_Controller.vhd,1609766716,vhdl,D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/I2C_Slave.vhd,,,i2c_controller,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/I2C_Slave.vhd,1609785473,vhdl,D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sim_1/new/tb.vhd,,,i2c_slave,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/Placuta.vhd,1608402499,vhdl,,,,placuta,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sources_1/new/uart_send13.vhd,1608636783,vhdl,D:/Andrei/facultate/An 3/ssc/ProiectSSCMasurareTemp/ProiectSSCMasurareTemp.srcs/sim_1/new/tb.vhd,,,uart_send13,,,,,,,,

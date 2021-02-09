@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/TWICtl.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/pa_direct.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/imports/new/displ7seg.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/imports/new/uart_tx.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/uart_send13.vhd" \
+"../../../../ProiectSSCMasurareTemp.srcs/sources_1/new/Placuta.vhd" \
+
+# Do not sort compile order
+nosort
